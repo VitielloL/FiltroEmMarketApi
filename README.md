@@ -1,4 +1,5 @@
 # FiltroMarketApi
 script para filtro em API'S
 
-**para inicialziar exemplo: node filtroID.js**
+**Node.js v18.14.1.**
+(para iniciliazar node filtroID.js)
